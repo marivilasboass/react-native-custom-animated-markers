@@ -14,7 +14,9 @@ Abaixo segue o que foi utilizado na criação deste template:
 ### Para Instalar
 
 npm install 
+
 cd io 
+
 pod install
 
 react-native run-ios
